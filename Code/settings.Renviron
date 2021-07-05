@@ -1,6 +1,8 @@
 #projectfolder
-projectfolder = "/home/cir/bburger/PHD/Github/Heritability/" 
+projectfolder='/path/to/project/folder/' # project folder, root directory of output
 #HCP information sheet containing Gender information
-HCP_information_sheet_unrestricted= "/home/cir/bburger/PHD/HCP_SubjectData/unrestricted_meiling_10_20_2015_15_10_31.xlsx" 
+HCP_information_sheet_unrestricted= '/path/to/HCP_subject_info_unrestricted.xlsx'
 #HCP information sheet containing zygosity information
-HCP_information_sheet= "/home/cir/bburger/PHD/HCP_SubjectData/RESTRICTED_georglangs_11_24_2015_16_5_58.xlsx" 
+HCP_information_sheet_path='/path/to/HCP_subject_info_restricted.xlsx' # file containing zygosity information of subjects
+
+
