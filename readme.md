@@ -93,3 +93,14 @@ Exceptions are
 ## Output
 - 7NETS_vertex:_contains subfolders with script outputs_
 - long_corr_matricesLR and long_corr_matricesRL: _subject_vise vertex-by-vertex correlation matrices for LR and RL runs_
+
+## Maps for genetic (A), common environmental (C) and random environmental (E) contribution
+![](ACE_all.png)
+
+The Deliveries-folder also contains *.mat- files with ACE-brain maps for entangled and disentangled function and position, which can also be seen partly in Figure 2 and fully in Supplementary Figure 6.
+The files are:
+- ACE_matrices_anat.mat: entangled function and position
+- ACE_matrices_func.mat: disentangled function
+- ACE_matrices_pos.mat: disentangled position
+
+Note: Negative values have been assigned to the medial wall, since no fMRI signal was available for this area. They are basically meaningless.
