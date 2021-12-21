@@ -97,7 +97,7 @@ Exceptions are
 ## Maps for genetic (A), common environmental (C) and random environmental (E) contribution
 ![](ACE_all.png)
 
-The Deliveries-folder also contains *.mat- files with ACE-brain maps for entangled and disentangled function and position, which can also be seen in the image above (and also in Figure 2 and Supplementary Figure 6 of our paper).
+The Deliveries-folder also contains *.mat- files with ACE-brain maps compatible with Freesurfer's fsaverage4 for entangled and disentangled function and position, which can also be seen in the image above (and also in Figure 2 and Supplementary Figure 6 of our paper).
 The files are:
 - ACE_matrices_anat.mat: entangled function and position
 - ACE_matrices_func.mat: disentangled function
