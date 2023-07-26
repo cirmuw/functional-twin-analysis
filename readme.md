@@ -4,7 +4,7 @@ This directory contains code to create cortical brainmaps showing genetic
 and environmental cotribution to functional inter-subject variability. 
 The corresponding paper "Disentangling cortical functional connectivity 
 strength and topography reveals divergent roles of genes and environment" 
-is available [here](https://www.biorxiv.org/content/10.1101/2021.04.08.438586v1).
+is available [here](https://doi.org/10.1016/j.neuroimage.2021.118770) ([biorXiv](https://www.biorxiv.org/content/10.1101/2021.04.08.438586v1)).
 
 ## Data
 We used data from the 1200 subjects release of the Human Connectome Project. In
